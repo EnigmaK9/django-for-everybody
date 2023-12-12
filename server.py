@@ -1,6 +1,4 @@
-
 from socket import *
-
 def createServer():
     serversocket = socket(AF_INET, SOCK_STREAM)
     try:
@@ -24,7 +22,7 @@ def createServer():
         print("\nShutting down...\n");
     except Exception as exec :
         print("Error:\n");
-        print(exec)
+        print(exc)
 
     serversocket.close()
 
