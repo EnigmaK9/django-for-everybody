@@ -1,3 +1,29 @@
+Teacher: Charles R. Sevearance
+
+
+
+
+
+Python web development
+
+- Django is a great success
+- Great for data applications
+- Rust, Elixir, Scala are harder to learn
+-----
+Prerequisites:
+- html
+- css 
+- sql 
+- python 
+- django 
+A free book on networking
+- if you find this topic area interesting and/or need more detail
+- www.netintro.com
+- https://coursera.org/learn/insidetheinternet
+-----
+
+
+-----
 the world's simplest web server
 -----
 
